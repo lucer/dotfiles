@@ -1,0 +1,10 @@
+xterm*saveLines: 2048
+;xterm*background:   black
+;xterm*foreground:   grey80
+XTerm*foreground: #f2f2f2
+XTerm*background: #101010
+xterm*visualBell:   true
+XTerm*renderFont: true
+XTerm*faceName: Terminus
+XTerm*faceSize: 14
+XTerm*loginShell: true
